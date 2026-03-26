@@ -8,3 +8,8 @@ h1 {
 p {
   font-size: 30;
 }
+.blue-section {
+  background-color: #007bff;
+  padding: 20;
+  margin: 10 0;
+}
