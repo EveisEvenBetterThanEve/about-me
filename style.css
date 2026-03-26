@@ -9,6 +9,7 @@ p {
 }
 .blue-section {
   background-color: #007bff;
-  padding: 20;
-  margin: 10 0;
+  width: 200;
+  height: 100;
+  margin: 20;
 }
